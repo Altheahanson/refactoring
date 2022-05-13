@@ -44,9 +44,13 @@
     - This helped jump to a specific section of page when clicked    
 
 
-## Credits
+## References
 - Github Pages
 https://altheahanson.github.io/refactoring/
 
--Semantic Elements Reference
+- Semantic Elements
 https://www.w3schools.com/html/html5_semantic_elements.asp
+
+![Html Changes](./assets/images/html-changes-pic.png)
+![Css Changes](./assets/images/css-changes-pic.png)
+![Deployed Changes](./assets/images/deployed-heriseon-page.png)
